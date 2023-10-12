@@ -2,7 +2,7 @@
 ## 서비스
 > AI를 활용한 포토부스 웹 서비스
 
-![](./readme/main.png)
+![main](https://i.postimg.cc/DZ2snJsw/main.png)
 
 SNAP은 인공지능을 응용한 포토부스 서비스로</br>
 AI를 활용한 포토부스 시장에서의 앞으로 추가되기에 적합한 서비스입니다.
@@ -11,7 +11,7 @@ AI를 활용한 포토부스 시장에서의 앞으로 추가되기에 적합한
 
 ## 팀원
 | 프론트엔드 | 백엔드 |
-| :----: | :----: |
+| :----:    | :----: |
 | 김준경, 전예빈, 조병진 | 이찬혁 |
 
 ## 기능
@@ -28,7 +28,7 @@ ex) 수채화, 에니메이션 캐릭터, 역동적인..
 ## 구조
 > 유연하고 확장성 높은 서버 구조
 
-![](./readme/map.png)
+![](https://i.postimg.cc/wBYL4bjJ/map.png)
 
 ### 1. 다양한 AI API 사용
 Chat GPT 3.5 API, Midjourney API를 통해 사용자에게 다양한 AI 서비스 제공
@@ -48,13 +48,13 @@ Gabia 도메인의 네임서버를 변경한뒤 CloudFlare의 DNS 프록시를 �
 
 | JavaScript | NodeJs |  React   |
 | :--------: | :--------:  | :------: |
-|   ![](./readme/js.svg)    |   ![](./readme/node.svg)     | ![](./readme/react.svg) |
+|   ![](https://i.postimg.cc/3rPK5M2k/js.png)    |   ![](https://i.postimg.cc/HsXTTStB/node.png)     | ![](https://i.postimg.cc/Dwhn0qjF/react.png) |
 
 2. 백엔드
 
 | Java 17    | Spring Boot |  Amazon Web Service   |  Cloud Flare   |
 | :--------: | :--------:  | :------: | :-----: |
-|   ![](./readme/java.jpg)    |   ![](./readme/spring.png)     | ![](./readme/aws.png) | ![](./readme/cloudflare.png) |
+|   ![](https://i.postimg.cc/RFR7HQ9t/java.jpg)    |   ![](https://i.postimg.cc/nc5vBL83/spring.png)     | ![](https://i.postimg.cc/BnrB9nMj/aws.png) | ![](https://i.postimg.cc/VvkjBrLV/cloudflare.png) |
 
 <br>
 
