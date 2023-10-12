@@ -46,9 +46,9 @@ Gabia 도메인의 네임서버를 변경한뒤 CloudFlare의 DNS 프록시를 �
 
 1. 프론트엔드
 
-| JavaScript | NodeJs |  React   |
+| Typescript | Zustand |  Next   |
 | :--------: | :--------:  | :------: |
-|   ![](https://i.postimg.cc/3rPK5M2k/js.png)    |   ![](https://i.postimg.cc/HsXTTStB/node.png)     | ![](https://i.postimg.cc/Dwhn0qjF/react.png) |
+|   ![](https://i.postimg.cc/zXvpZMSR/ts.png)    |   ![](https://i.postimg.cc/x8cmhrDf/zustand.jpg)     | ![](https://i.postimg.cc/7Yq83x4r/next.png) |
 
 2. 백엔드
 
